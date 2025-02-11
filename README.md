@@ -52,7 +52,7 @@ This project leverages **Big Data technologies, real-time streaming, and NLP** t
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/big_data_social_media_analysis.git
+git clone https://github.com/bruteai/big_data_social_media_analysis.git
 cd big_data_social_media_analysis
 ```
 
@@ -132,7 +132,5 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 Special thanks to **Apache Kafka, Spark, NLP Libraries, and the OpenAI team** for providing valuable tools for Big Data processing.
 
 ---
-
-📌 **GitHub Repository:** [Your GitHub Link Here]
 
 🚀 **Happy Coding!**
