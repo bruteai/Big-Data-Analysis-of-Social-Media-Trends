@@ -1,4 +1,4 @@
-# 📊 Big Data Analysis of Social Media Trends
+# Big Data Analysis of Social Media Trends
 
 ## **Introduction**
 
